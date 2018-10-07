@@ -1,5 +1,4 @@
-# Assignment-3
-Systems programming last assignment
+# Remote File Server
 
 This project is a remote file server that is mostly transparent to the user.
 
